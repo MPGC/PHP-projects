@@ -1,0 +1,6 @@
+Maria&Lenguaje&6,5
+Lucia&Matematicas&7
+Juan&Rodriguez&3
+Mikel&Julian&2
+Gonzalo&Sanz&9
+Jorge&Ruiz$8
